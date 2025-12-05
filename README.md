@@ -40,13 +40,11 @@ https://www.omdbapi.com/?apikey=589e8037&i=tt0133093&plot=full
 
 ## 📸 **Скриншоты работы приложения**
 
-```
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/fe77c95d-a8f1-42c7-bea9-b88e6874f657" />
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/2bba0be7-40df-4908-9803-16aa184439c0" />
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/35da172b-30de-4f07-8087-489fc8fda23b" />
 
-```
 
 ---
 
